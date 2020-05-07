@@ -1,0 +1,7 @@
+raws=raw_input()
+raws=raws.split(" ")
+l=(raws[0])
+r=(raws[1])
+lint=int(l)
+rint=int(r)
+print(rint-lint)
